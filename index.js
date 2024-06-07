@@ -3,8 +3,6 @@ const app = express();
 const cors = require('cors');
 const staticData = require('./staticData.json');
 
-// const responseService = require('./ResponseService');
-
 app.use(express.json());
 app.use(cors());
 
