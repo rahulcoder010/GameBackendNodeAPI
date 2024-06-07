@@ -1,0 +1,23 @@
+{
+    "operatorAuthResponse": {
+      "username": "test",
+      "currency": "us",
+      "balance": "50",
+      "userToken": "token123"
+    },
+    "operatorBetResponse": {
+      "errorCode": 0,
+      "message": "success",
+      "username": "test123",
+      "currency": "THB",
+      "balance": "50"
+    },
+    "operatorCancelBetResponse": {
+      "errorCode": 0,
+      "message": "success",
+      "username": "test123",
+      "currency": "THB",
+      "balance": "50"
+    }
+  }
+  
